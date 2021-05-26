@@ -39,12 +39,7 @@
 <a href="https://github.com/theanshulcode">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&theme=light&line_height=27" alt="Anshul's Github Stats"/>
 </a>
-<a href="https://github.com/theanshulcode/Customer-Segmentation-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theanshulcode&repo=Customer-Segmentation-Analysis&theme=light" />
-</a>
-<a href="https://github.com/theanshulcode/Fake-News-Detection">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theanshulcode&repo=Fake-News-Detection&theme=light" />
-</a>
+
 <div align="center">
 
 </div>
