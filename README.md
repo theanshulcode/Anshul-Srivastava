@@ -1,5 +1,3 @@
-# Anshul-Srivastava
-
 ## Hey, I'm [Anshul Srivastava!] 
 
 
@@ -35,17 +33,17 @@
 ### 🔧 Technologies
 ![Python](https://img.icons8.com/color/30/000000/python.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
-<a href="https://github.com/vatsalcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalcode&theme=light&hide_langs_below=1" />
+<a href="https://github.com/theanshulcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanshulcode&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/vatsalcode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalcode&show_icons=true&theme=light&line_height=27" alt="Vatsal's github stats"/>
+<a href="https://github.com/theanshulcode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&theme=light&line_height=27" alt="Anshul's Github Stats"/>
 </a>
-<a href="https://github.com/vatsalcode/Sorting-Algo-visulizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Sorting-Algo-visulizer&theme=light" />
+<a href="https://github.com/theanshulcode/Customer-Segmentation-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theanshulcode&repo=Customer-Segmentation-Analysis&theme=light" />
 </a>
-<a href="https://github.com/vatsalcode/Codeshow-100days_of_code">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vatsalcode&repo=Codeshow-100days_of_code&theme=light" />
+<a href="https://github.com/theanshulcode/Fake-News-Detection">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theanshulcode&repo=Fake-News-Detection&theme=light" />
 </a>
 <div align="center">
 
