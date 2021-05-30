@@ -21,6 +21,10 @@
 
 -  2nd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  I’m currently working on Machine Learning, Big Data Analytics, Data Science.
+ 
+ 
+ ### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/theanshulcode/count.svg)
 
  <br>
 
