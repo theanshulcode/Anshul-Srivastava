@@ -31,6 +31,16 @@
  
  ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/theanshulcode/count.svg)
+ 
+ ### 🔧 Technologies
+![Python](https://img.icons8.com/color/30/000000/python.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![Jupyter](https://img.icons8.com/material-outlined/25/jupyter.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
+
+<a href="https://github.com/theanshulcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanshulcode&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/theanshulcode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&theme=light&line_height=27" alt="Anshul's Github Stats"/>
+</a>
 
  <br>
 
