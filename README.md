@@ -35,6 +35,6 @@
  <br>
 
 
-![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=salonigupta1&show_icons=true&hide_border=true)
+![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&hide_border=true)
 
 <br>
