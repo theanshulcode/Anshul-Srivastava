@@ -21,3 +21,10 @@
 
 -  2nd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  I’m currently working on Machine Learning, Big Data Analytics, Data Science.
+
+ <br>
+
+
+![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=salonigupta1&show_icons=true&hide_border=true)
+
+<br>
