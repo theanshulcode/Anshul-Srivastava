@@ -40,9 +40,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&theme=light&line_height=27" alt="Anshul's Github Stats"/>
 </a>
 
- <br>
-
-
-![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=theanshulcode&show_icons=true&hide_border=true)
-
-<br>
+ 
