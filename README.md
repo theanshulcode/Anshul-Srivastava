@@ -20,7 +20,8 @@
 
 
 -  2nd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
--  I’m currently working on Machine Learning, Big Data Analytics, Data Science.
+-  I’m currently working on Machine Learning.
+-  I'm interested in Big Data Analytics, Data Science and Machine Learning.
  
  ### Languages and Tools:  
 
