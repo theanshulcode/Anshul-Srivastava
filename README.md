@@ -19,7 +19,8 @@
 <br/>
 
 
--  2nd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
+-  3rd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
+-  Incoming Research Intern at University of Queenslaand, Australia.
 -  I’m currently working on Machine Learning.
 -  I'm interested in Big Data Analytics, Data Science and Machine Learning.
  
