@@ -14,9 +14,7 @@
 <a href="https://www.instagram.com/__a.n.s.h.u.l.__/">
   <img align="left" alt="Anshul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/anshul.srivastava.31105/">
-  <img align="left" alt="Anshul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 
 <br/>
 <br/>
