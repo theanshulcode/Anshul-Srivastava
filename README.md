@@ -21,7 +21,7 @@
 
 
 -  3rd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
--  Working as a Research Intern at University of Queenslaand, Australia.
+-  Working as a Research Intern at University of Queensland, Australia.
 -  I’m currently working on Machine Learning and Web Development.
 -  I'm interested in Big Data Analytics & Data Science.
   
