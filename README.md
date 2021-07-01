@@ -22,7 +22,6 @@
 
 -  3rd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  Working as a Research Intern at University of Queensland, Australia.
--  Data Science Intern at Sony Research India.
 -  I’m currently working on Machine Learning and Web Development.
 -  I'm interested in Big Data Analytics & Data Science.
   
