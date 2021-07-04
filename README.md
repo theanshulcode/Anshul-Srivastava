@@ -22,7 +22,7 @@
 
 -  3rd Year Undergrad majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  Research Intern at University of Queensland, Australia.
--  Data Science Intern at Sony Research India & The Neuro Labs.
+-  Data Science Intern at The Neuro Labs.
 -  I’m currently working on Machine Learning, Artificial Intelligence and Web Development.
 -  Exploring areas Machine Learning, Big Data Analytics & Data Science.
   
