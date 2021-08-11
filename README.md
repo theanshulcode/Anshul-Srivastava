@@ -20,7 +20,7 @@
 <br/>
 
 
--  I am a Pre-Final Year Undergrad Student majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
+-  Pre-Final Year Undergrad Student majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  Research Intern at The University of Queensland, Australia.
 -  Data Science Intern at The Neuro Labs.
 -  I’m currently working on Machine Learning, Artificial Intelligence and Deep Learning.
