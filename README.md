@@ -22,8 +22,9 @@
 
 -  Pre-Final Year Undergrad Student majoring in Computer Science and Engineering with Specialization in Big Data Analytics.
 -  Ex-Research Intern at The University of Queensland, Australia.
--  I’m currently working on Machine Learning, Artificial Intelligence and Deep Learning.
--  Exploring areas Machine Learning, Big Data Analytics & Data Science.
+-  Research interest areas are Data Science, Machine Learning and Deep Learning.
+-  I am currently working on Data Structures and Algorithms.
+- Contact me on: theanshulcode@gmail.com
   
  ### Languages and Tools:  
 
